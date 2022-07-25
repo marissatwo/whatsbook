@@ -66,3 +66,9 @@ $ forever stop index.js
 ```
 After installation scan your ``QR-CODE`` 
 
+### Credits
+Thanks to all the amazing community [contributors for sending PRs](https://github.com/imhunterand/whatsbook/contributors).
+
+<h1 align="left">
+  <a href="https://wa.me/+6282113409538"><img src="https://www.transparentpng.com/download/whatsapp/d9NoMp-mobile-chat-whatsapp-clipart-transparent.png" width="380" alt="Contact WhatsApp"></a>
+</h1>
